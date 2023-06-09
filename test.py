@@ -1,5 +1,5 @@
 print("Hello world")
 
 
-for j in range(0,10o):
+for j in range(0,100):
     print("Hey Bro What's up")
